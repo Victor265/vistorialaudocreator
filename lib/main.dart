@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          ti tle: const Text('Vistoria Laudo Creator'),
+          title: const Text('Vistoria Laudo Creator'),
         ),
         body: const Center(
           child: Text('Banco iniciado com sucesso!'),
